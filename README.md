@@ -1,4 +1,6 @@
 # SnapLens Application
+Access the super cool app “SnapLens”
+https://play.google.com/store/apps/details?id=com.tanxe.snaplens
 
 ## Overview
 
